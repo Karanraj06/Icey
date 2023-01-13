@@ -1,2 +1,3 @@
 # Icey
-Home Page of a hypothetical ice cream brand <a href="https://karanraj06.github.io/Icey/">Icey</a> built using HTML / CSS / Bootstrap
+
+Home Page of <a href="https://www.tillamook.com/products/ice-cream">Tillamook</a> built using HTML / CSS / Bootstrap

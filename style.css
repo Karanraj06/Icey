@@ -102,3 +102,12 @@
         display: block;
     }
 }
+
+.form-control {
+    border-width: 2px;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border: 2px solid teal;
+}
